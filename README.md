@@ -6,7 +6,7 @@ Implemented image style transfer in Keras using pre-trained VGGNet.
 
 Run style_transfer.py on CL with the following arguments:
 
---contentPath: path/to/contentImage (default Paris). 
+--contentPath: path/to/contentImage (default Paris)<br/>
 --stylePath: path/to/styleImage (default StarryNight)
 
 --outWidth: width of output image (int)
